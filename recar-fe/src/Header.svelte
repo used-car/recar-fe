@@ -4,7 +4,23 @@
 
 <header>
     <div class="header">
+        <div class="header-grid-container">
+            <div>
+                
+            </div>
+            <div>
 
+            </div>
+            <div>
+
+            </div>
+            <div>
+
+            </div>
+            <div>
+
+            </div>
+        </div>
     </div>
 </header>
 
@@ -14,5 +30,9 @@
     height: 10%;
     min-height: 100px;
     background-color: greenyellow;
+}
+
+.header-grid-container{
+    
 }
 </style>
