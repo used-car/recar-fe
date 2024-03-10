@@ -1,10 +1,14 @@
 <script>
-    
+
 </script>
 
 <footer>
     <div class="footer">
-
+        <div class="footer-grid-container">
+            <div>
+                
+            </div>
+        </div>
     </div>
 </footer>
 

@@ -4,7 +4,11 @@
 
 <main>
     <div class="index-main">
-
+        <div class="index-grid-container">
+            <div>
+                
+            </div>
+        </div>
     </div>
 </main>
 
